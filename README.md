@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi there, I'm Agostina
 
-<!--
-**agostinagiannelli/agostinagiannelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to explore my repositories, and don't hesitate to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/agostinagiannelli/) or send me an email at [agostinagiannelli@gmail.com](mailto:agostinagiannelli@gmail.com).
 
-Here are some ideas to get you started:
+Looking forward to connecting with you! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+- **10+ years of experience** driving successful ecommerce initiatives, specializing in Shopify.
+- Proven experience in translating **business goals** into user-centric product development, with a strong background in both business growth and technical areas.
+- Proficiency in **agile methodologies**, including product roadmaps, sprints, and backlogs.
+- Strong **project management**, organization, and communication skills.
+- Effective collaboration with **cross-functional teams** and the ability to work independently.
+
+### 🚀 Technologies
+- HTML, CSS, JavaScript, TypeScript
+- Node.js, React, Redux, Next.js
+- Tailwind CSS, Material UI
+
+### 🌐 Languages
+- Spanish (Native)
+- English (C2)
