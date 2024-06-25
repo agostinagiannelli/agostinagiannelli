@@ -7,7 +7,7 @@ Looking forward to connecting with you! 🚀
 ### 🧠 Skills
 - **10+ years of experience** driving successful ecommerce initiatives, specializing in Shopify.
 - Proven experience in translating **business goals** into user-centric product development, with a strong background in both business growth and technical areas.
-- Proficiency in **agile methodologies**, including product roadmaps, sprints, and backlogs.
+- Proficiency in **agile methodologies** and **digital product** ownership (roadmaps, backlogs, user stories)
 - Strong **project management**, organization, and communication skills.
 - Effective collaboration with **cross-functional teams** and the ability to work independently.
 
