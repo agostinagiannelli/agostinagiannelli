@@ -5,11 +5,11 @@ Feel free to explore my repositories, and don't hesitate to reach out! You can c
 Looking forward to connecting with you! 🚀
 
 ### 🧠 Skills
-- 10+ years driving successful **ecommerce strategies**, specialising in Shopify
-- Proven experience in translating business goals into user-centric product development, with a background in both **business growth** and **technical fields**
-- Proficiency in **agile methodologies** and **digital product management**, including roadmaps, backlogs, user stories, and A/B testing
-- Effective **stakeholder governance** and collaboration with cross-functional teams
-- Strong skills in **project management**, organisation, and effective communication
+- 10+ years crafting strategies and launching **ecommerce platforms** with a track record of driving **business success**.
+- Extensive experience in translating business goals into **user-centric product development**.
+- Proficiency in **agile methodologies** and **digital product management**.
+- Strong skills in **project management**, organisation, and effective communication.
+- Effective **stakeholder governance** and collaboration with **cross-functional teams**.
 
 ### 🚀 Technologies
 - HTML, CSS, JavaScript, TypeScript
