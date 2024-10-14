@@ -5,10 +5,10 @@ Feel free to explore my repositories, and don't hesitate to reach out! You can c
 Looking forward to connecting with you! 🚀
 
 ### 🧠 Skills
-- 10+ years crafting strategies and launching **ecommerce platforms** with a track record of driving **business success**.
-- Extensive experience in translating business goals into **user-centric product development**.
-- Proficiency in **agile methodologies** and **digital product management**.
-- Strong skills in **project management**, organisation, and effective communication.
+- 10+ years crafting strategies and launching **ecommerce platforms**, focusing on **conversion rate optimization (CRO)** with proven results.
+- Extensive experience in translating business goals into **digital products**.
+- Data-driven mindset to inform strategic decisions, leveraging **user behaviour** analysis and **user experience (UX)** principles.
+- Proficiency in **agile methodologies**, with exceptional **project management**, organisational, and communication skills.
 - Effective **stakeholder governance** and collaboration with **cross-functional teams**.
 
 ### 🚀 Technologies
