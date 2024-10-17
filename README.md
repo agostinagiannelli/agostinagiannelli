@@ -7,7 +7,7 @@ Looking forward to connecting with you! 🚀
 ### 🧠 Skills
 - 10+ years crafting ecommerce strategies and launching platforms, focusing on **conversion rate optimization (CRO)** with proven results.
 - Extensive experience translating business goals into **user-centric digital products**.
-- Data-driven mindset to inform strategic decisions, leveraging **user behaviour analysis** and **UX principles**.
+- Data-driven mindset to inform strategic decisions, leveraging **user behaviour analysis**, **A/B testing**, and **UX principles**.
 - Proficient in **agile methodologies**, with exceptional project management, organisational, and communication skills.
 - Effective stakeholder governance and collaboration with cross-functional teams.
 
