@@ -1,19 +1,14 @@
-### 👋 Hi there, I'm Agostina
+### 👋 Hey, I'm Agostina
 
-Feel free to explore my repositories, and don't hesitate to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/agostinagiannelli/) or send me an email at [agostinagiannelli@gmail.com](mailto:agostinagiannelli@gmail.com).
+With 10+ years of experience crafting user-focused ecommerce platforms and optimizing conversion rates, I bring a strong technical foundation in web development. Proficient in HTML, CSS, JavaScript, TypeScript, and frameworks like React and Astro, I create clean, scalable, and high-performing solutions.
 
-Looking forward to connecting with you! 🚀
+Passionate about building seamless user experiences and delivering value-driven results. Let's collaborate!
 
-### 🧠 Skills
-- 10+ years crafting ecommerce strategies and launching platforms, focusing on **conversion rate optimization (CRO)** with proven results.
-- Extensive experience translating business goals into **user-centric digital products**.
-- Data-driven mindset to inform strategic decisions, leveraging **user behaviour analysis**, **A/B testing**, and **UX principles**.
-- Proficient in **agile methodologies**, with exceptional project management, organisational, and communication skills.
-- Effective stakeholder governance and collaboration with cross-functional teams.
+📌 You can connect with me on [LinkedIn](https://www.linkedin.com/in/agostinagiannelli/) or send me an email at [agostinagiannelli@gmail.com](mailto:agostinagiannelli@gmail.com).
 
 ### 🚀 Technologies
 - HTML, CSS, JavaScript, TypeScript
-- Node.js, React, Redux, Next.js, Astro
+- React, Next.js, Astro
 - Tailwind CSS, Material UI
 
 ### 🌐 Languages
