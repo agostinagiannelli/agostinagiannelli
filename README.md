@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Agostina
 
-With 10+ years of experience crafting user-focused ecommerce platforms and optimizing conversion rates, I bring a strong technical foundation in web development. Proficient in HTML, CSS, JavaScript, TypeScript, and frameworks like React and Astro, I create clean, scalable, and high-performing solutions.
+With 10+ years of experience crafting user-focused ecommerce platforms and optimising conversion rates, I bring a strong technical foundation in web development. Proficient in HTML, CSS, JavaScript, TypeScript, and frameworks like React and Astro, I create clean, scalable, and high-performing solutions.
 
 Passionate about building seamless user experiences and delivering value-driven results. Let's collaborate!
 
