@@ -5,5 +5,3 @@ With 10+ years of experience in crafting user-focused ecommerce platforms and op
 Passionate about building seamless user experiences and delivering value-driven results. Let's collaborate!
 
 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/agostinagiannelli/) or email me at [agostinagiannelli@gmail.com](mailto:agostinagiannelli@gmail.com).
-
-Fluent in Spanish and English • Based in Madrid, Spain 🇪🇸
